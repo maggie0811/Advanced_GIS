@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [project 1]() | [project 2]() | [final project]() | 
+| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [project 1](summerfest_demo) | [project 2]() | [final project]() | 
 
 # Maggie's ArcGIS Portfolio 
 
@@ -17,3 +17,5 @@ When I graduate, I plan to get a job working directly in governments or with gov
 
 
 # Portfolio
+
+[Project 1: SummerFest Demo ExperienceBuilder App](summerfest_demo)
