@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [project 1](summerfest_demo) | [project 2]() | [final project]() | 
+| [home page](https://maggie0811.github.io/Advanced_GIS-/) | 
 
 # Maggie's ArcGIS Portfolio 
 
