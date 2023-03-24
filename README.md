@@ -19,4 +19,5 @@ When I graduate, I plan to get a job working directly in governments or with gov
 # Portfolio
 
 [Project 1: SummerFest Demo ExperienceBuilder App](summerfest_demo)
+
 [Assignment 1: Custom Google Maps](hw1)
