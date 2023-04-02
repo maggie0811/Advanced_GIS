@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1)
+| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1) | [Homework 2](hw2)
 
 # Maggie's ArcGIS Portfolio 
 
@@ -21,3 +21,5 @@ When I graduate, I plan to get a job working directly in governments or with gov
 [Project 1: SummerFest Demo ExperienceBuilder App](summerfest_demo)
 
 [Assignment 1: Custom Google Maps](hw1)
+
+[Assignment 2: Mingo County Pharmaceutical Analysis](hw2)
