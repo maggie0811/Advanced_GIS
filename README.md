@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1) | [Homework 2](hw2)
+| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1) | [Homework 2](hw2) | [Felt Demo](felt_demo)
 
 # Maggie's ArcGIS Portfolio 
 
@@ -23,3 +23,5 @@ When I graduate, I plan to get a job working directly in governments or with gov
 [Assignment 1: Custom Google Maps](hw1)
 
 [Assignment 2: Mingo County Pharmaceutical Analysis](hw2)
+
+[Demo: Felt Online Interactive Map](felt_demo)
