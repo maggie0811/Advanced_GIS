@@ -1,3 +1,5 @@
+| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1) | [Homework 2](hw2) | [Felt Demo](felt_demo) | [Final Project](final_project)
+
 # Final Project: Analysis of Bridge Infrastructure in Pennsylvania
 
 American infrastructure is aging rapidly, especially bridges. In order to maintain and upkeep these structures, states must be sure to successfully track the conditions of their bridges. Additionally, it is important for jurisdictions within states to be aware of funding sources to repair these bridges, especially new revenue streams from the Bipartisan Infrastructure Law. In total, Pennsylvania has 713 bridges older than 50 years old and rated as being in poor condition. The full dataset of bridge with condition information can be found [here](https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=35)
