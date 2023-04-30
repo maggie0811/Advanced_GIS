@@ -4,7 +4,7 @@ American infrastructure is aging rapidly, especially bridges. In order to mainta
 
 The following ArcGIS insights page will help people involved with bridge repair across the state understand areas in the state with high need across a variety of categories.
 
-<iframe src="https://insights.arcgis.com/#/embed/761cd3ea49094a0b83347da4f7acb339" width="500" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/761cd3ea49094a0b83347da4f7acb339" width="1500" height="1300" frameborder="0"></iframe>
 
 Once a bridge has been identified as in high need of funding for repairs, then an applicable funding source should be identified. THe state of Pennsylvania generally has limited funds due to a variety of factors. For one, the sheer number of aging bridges in the state makes it difficult to keep up with maintenance and repairs. Additionally, fund sources such as tolls have been fought by local municipalities, making them difficult to implement. 
 
