@@ -25,6 +25,8 @@ In addition to proposed funding sources, there are a number of current sources, 
 |Historic Metal Truss Bridge Capital Rehabilitation Program	| Statewide, must be historic bridges |	The Program is primarily focused on county and municipally owned historic metal truss bridges where owners desire to work collaboratively with PennDOT, MPO/RPOs, the SHPO and historic preservation interest groups and individuals to rehabilitate their resources for continuous vehicular transportation use.	| [link](https://www.penndot.pa.gov/ProjectAndPrograms/Cultural%20Resources/Pages/Historic%20Truss%20Bridge%20Management%20Plan.aspx) |
 
 
+## [Link to Final Project Materials](https://drive.google.com/drive/folders/1L-ka7KU71LFKjJFcZ8-pPuHAZXaiHJ2T?usp=sharing)
+
 
 
 
