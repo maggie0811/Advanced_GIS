@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1) | [Homework 2](hw2) | [Felt Demo](felt_demo)
+| [home page](https://maggie0811.github.io/Advanced_GIS-/) | [Homework 1](hw1) | [Homework 2](hw2) | [Felt Demo](felt_demo) | [Final Project](final_project)
 
 ## Assignment 2: Mingo County Analysis
 
