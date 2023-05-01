@@ -8,6 +8,16 @@ The following ArcGIS insights page will help people involved with bridge repair 
 
 <iframe src="https://insights.arcgis.com/#/embed/761cd3ea49094a0b83347da4f7acb339" width="1500" height="1300" frameborder="0"></iframe>
 
+The above visualizations can be used primarily for understaning which counties or areas of Pennsylvania have a need for bridge repairs, or targeted funding. The **Pennsylvania Bridges 50+ Years Old and Poor Condition** card can be used to understand which areas have a high density of aging bridges. Not surprisingly, these tended to be areas with higher populations and urban areas. The calculate density tool in Insights was used to create this card.
+
+Next, the **Counties with Most Aging Bridges in Poor Condition** card can be used to see which counties have bridges that are specifically rated as being in poor condition. Clearfield and Centre County were at the top of the list, likely because they have population centers but also might not have the funding sources that can be found in areas with larger cities. 
+
+**Location of Bridges with Poor Condition Rating** simply shows the location of each bridge as detailed in the other cards.
+
+**Counties with High Rates of Aging Bridges per Capita** uses a spatial aggregation of aging brigdes in each county, then enriches the data with population information. This population information is then used to find out which counties have the most aging bridges per capita. Again, these areas are largely clustered around the middle of the state.
+
+**Areas with High Density of Poor Bridges & Low Income Communities** aggregates the bridge density map and low income communities dataset to discover areas which are both low income and have a high density of low quality bridges. This information can be used
+
 Once a bridge has been identified as in high need of funding for repairs, then an applicable funding source should be identified. THe state of Pennsylvania generally has limited funds due to a variety of factors. For one, the sheer number of aging bridges in the state makes it difficult to keep up with maintenance and repairs. Additionally, fund sources such as tolls have been fought by local municipalities, making them difficult to implement. 
 
 The Pennsylvania Department of Transportation (PennDOT) has proposed a [variety of ways](https://www.penndot.pa.gov/about-us/funding/solutions/Pages/default.aspx) to supplement fund sources, including tolls, mileage based user fees, congestion pricing, corridor tolling and additonal fees ant taxes.
