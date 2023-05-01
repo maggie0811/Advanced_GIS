@@ -16,7 +16,9 @@ Next, the **Counties with Most Aging Bridges in Poor Condition** card can be use
 
 **Counties with High Rates of Aging Bridges per Capita** uses a spatial aggregation of aging brigdes in each county, then enriches the data with population information. This population information is then used to find out which counties have the most aging bridges per capita. Again, these areas are largely clustered around the middle of the state.
 
-**Areas with High Density of Poor Bridges & Low Income Communities** aggregates the bridge density map and low income communities dataset to discover areas which are both low income and have a high density of low quality bridges. This information can be used
+**Areas with High Density of Poor Bridges & Low Income Communities** aggregates the bridge density map and low income communities dataset to discover areas which are both low income and have a high density of low quality bridges. This information can be used to equitably target bridge improvement projects.
+
+Finally, **Bridges with High Average Daily Traffic in Poor Condition** symbolizes the bridge points based on the average daily traffic field associated with them. High useage is another factor that may prioritize a brdige for repair over another, so understanding where these sorts of bridges are will be useful for planners.
 
 Once a bridge has been identified as in high need of funding for repairs, then an applicable funding source should be identified. THe state of Pennsylvania generally has limited funds due to a variety of factors. For one, the sheer number of aging bridges in the state makes it difficult to keep up with maintenance and repairs. Additionally, fund sources such as tolls have been fought by local municipalities, making them difficult to implement. 
 
